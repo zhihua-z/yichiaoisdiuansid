@@ -1,4 +1,4 @@
-# this is a practice file for yichi
+# this is a practice readme.md for yichi
 
 ## this is a smaller font
 
